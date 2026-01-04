@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi 👋, I'm Vishnu Vardhan
+## Hi 👋, I'm Vishnu Vardhan
 
 ### AI / Machine Learning Engineer from India 🇮🇳
 
