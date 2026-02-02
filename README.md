@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Vishnu Vardhan
 
-### AI / Machine Learning Engineer from India 🇮🇳
+
 
 I'm passionate about building intelligent systems and transforming complex AI concepts into practical solutions. Currently focused on pushing the boundaries of machine learning and computer vision.
 
