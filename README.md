@@ -9,13 +9,6 @@ I'm passionate about building intelligent systems and transforming complex AI co
 ---
 
 ## 🚀 About Me
-
-- 🔭 I'm currently working on **Machine Learning, Deep Learning & Computer Vision** projects
-- 🌱 I'm currently learning **Generative AI, LLMs, and Deployment** (Streamlit & Cloud)
-- 💬 Ask me about **Machine Learning, Deep Learning, CNNs, YOLO, NLP, and Python**
-- ⚡ Fun fact: I enjoy turning complex AI concepts into simple explanations 😄
-# 👋 About Me
-
 **Machine Learning Engineer | Data Scientist | AI Solutions Developer**
 
 > "I'm here to solve known problems—and to find new problems to solve."
