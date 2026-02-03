@@ -14,7 +14,34 @@ I'm passionate about building intelligent systems and transforming complex AI co
 - 🌱 I'm currently learning **Generative AI, LLMs, and Deployment** (Streamlit & Cloud)
 - 💬 Ask me about **Machine Learning, Deep Learning, CNNs, YOLO, NLP, and Python**
 - ⚡ Fun fact: I enjoy turning complex AI concepts into simple explanations 😄
+# 👋 About Me
 
+**Machine Learning Engineer | Data Scientist | AI Solutions Developer**
+
+> "I'm here to solve known problems—and to find new problems to solve."
+
+* **Machine Learning Engineer & Data Scientist** with 3+ years of experience delivering end-to-end AI and data-driven solutions across industry projects and research initiatives.
+
+* Skilled in building **production-ready ML pipelines**, deploying scalable models, and translating complex business requirements into actionable analytics that drive measurable impact.
+
+* Passionate about **NLP, Deep Learning, and Computer Vision**, with hands-on expertise in fine-tuning LLMs, building RAG systems, and creating intelligent text classification solutions.
+
+* Experienced in leveraging **cloud platforms (GCP, AWS)** and modern deployment tools (FastAPI, Streamlit) to deliver scalable, real-world data science applications.
+
+* Thrive in **collaborative environments** where innovation meets business value—continuously upskilling in Generative AI, LLMs, and advanced deployment strategies.
+
+* Proven track record of **50+ successfully delivered projects** spanning predictive modeling, time series forecasting, sentiment analysis, and business intelligence dashboards.
+
+## 🚀 Currently
+
+- 🔭 Building **Machine Learning, Deep Learning & NLP solutions** for real-world applications
+- 🌱 Deepening expertise in **Generative AI, LLMs, RAG systems & Cloud Deployment**
+- 💬 Ask me about **Text Classification, BERT Fine-tuning, PyTorch, NLP Pipelines & Production ML**
+- ⚡ Fun fact: I turn complex AI concepts into simple, actionable solutions 😄
+
+---
+
+*Certified in Data Science, Machine Learning, Generative AI & Business Analytics*
 ---
 
 ## 🛠️ Languages and Tools
