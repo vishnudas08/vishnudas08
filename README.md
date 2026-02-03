@@ -9,11 +9,11 @@ I'm passionate about building intelligent systems and transforming complex AI co
 ---
 
 ## 🚀 About Me
-**Machine Learning Engineer | Data Scientist | AI Solutions Developer**
+**Machine Learning Engineer | Data Analyst | AI Solutions Developer**
 
 > "I'm here to solve known problems—and to find new problems to solve."
 
-* **Machine Learning Engineer & Data Scientist** with 3+ years of experience delivering end-to-end AI and data-driven solutions across industry projects and research initiatives.
+* **Machine Learning Engineer & Data Analytics ** with 3+ years of experience delivering end-to-end AI and data-driven solutions across industry projects and research initiatives.
 
 * Skilled in building **production-ready ML pipelines**, deploying scalable models, and translating complex business requirements into actionable analytics that drive measurable impact.
 
