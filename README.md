@@ -34,7 +34,7 @@ I'm passionate about building intelligent systems and transforming complex AI co
 
 ---
 
-*Certified in Data Science, Machine Learning, Generative AI & Business Analytics*
+*Certified in Data Science, Machine Learning, Generative AI & Analytics*
 ---
 
 ## 🛠️ Languages and Tools
